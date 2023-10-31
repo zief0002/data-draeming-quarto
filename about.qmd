@@ -1,0 +1,20 @@
+---
+title: "About"
+---
+
+SLEDS Lab is a research lab in the Department of Educational Psychology at the University of Minnesota. It sprung from the Social Lab, started by Geoff Maruyama. 
+
+<br />
+
+
+
+## Members
+
+
+<img src="img/geoff.jpg" style="width: 15%; border-radius: 50%;">
+<img src="img/isa.jpg" style="width: 15%; border-radius: 50%;">
+<img src="img/tai.jpg" style="width: 15%; border-radius: 50%;">
+<img src="img/shelby.png" style="width: 15%; border-radius: 50%;">
+<img src="img/andy.png" style="width: 15%; border-radius: 50%;">
+
+

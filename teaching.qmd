@@ -1,0 +1,25 @@
+---
+title: ""
+---
+
+
+<br />
+
+### Teaching
+
+I teach (have taught) the following courses at the University of Minnesota. Some of my old course webpages can be found [here](https://github.com/zief0002/courses), and many of the materials are available in various repositories in my [Github](https://github.com/zief0002).
+
+- EPsy 1261: Understanding Data Stories through Visualization and Computing
+- EPsy 3264: Basic and Applied Statistics
+- EPsy 5244: Survey Design, Sampling, and Implementation
+- EPsy 5261: Introductory Statistical Methods
+- EPsy 8220: Methods for Categorical Response Data in Educational Research
+- EPsy 8251: Methods in Data Analysis for Educational Research I
+- EPsy 8252: Methods in Data Analysis for Educational Research II
+- EPsy 8261: Statistical Methods I: Probability and Inference
+- EPsy 8262: Statistical Methods II: Regression and The General Linear Model
+- EPsy 8264: Advanced Multiple Regression
+- EPsy 8282: Statistical Analysis of Longitudinal Data I
+
+
+

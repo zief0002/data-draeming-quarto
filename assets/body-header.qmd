@@ -1,0 +1,10 @@
+:::{.column-screen}
+![](img/typewriter.png)
+<div class="banner-text">
+# Andrew Zieffler
+
+Academic. Data lover. Statistics enthusiast.
+</div>
+:::
+
+<br />

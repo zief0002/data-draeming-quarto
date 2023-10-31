@@ -1,0 +1,22 @@
+---
+title: ""
+---
+
+
+
+### Location, email, what-not
+
+178 EdSciB <br/>56 East River Road <br />Minneapolis, MN 55455
+
+<br />
+
+[{{< fa square-envelope size=2xl >}}](mailto:zief0002@umn.edu) &nbsp; 
+[{{< fa brands square-github size=2xl >}}](https://github.com/zief0002) &nbsp;
+[{{< fa brands linkedin size=2xl >}}](https://www.linkedin.com/in/andrewzieffler/) &nbsp;
+[{{< ai researchgate-square size=2xl >}}](https://www.researchgate.net/profile/Andrew_Zieffler) &nbsp;
+[{{< ai google-scholar-square size=2xl >}}](https://scholar.google.com/citations?user=HIQJwrsAAAAJ&hl=en) &nbsp;
+[{{< ai orcid-square size=2xl >}}](https://orcid.org/0000-0002-1035-0341)
+
+
+
+

@@ -1,0 +1,85 @@
+/* ---------------------------------------------------------------------- */
+
+/* https://quarto.org/docs/output-formats/html-themes.html#sass-variables */
+/* ---------------------------------------------------------------------- */
+
+
+/*-- scss:defaults --*/
+
+$navbar-hl: #337ab7;
+
+
+
+
+/*-- scss:rules --*/
+
+.banner-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+
+.banner-text h1 {
+  color: white;
+  font-size:80px;
+  font-family:'Helvetica Neue';
+}
+
+.banner-text p {
+  color: white;
+  font-size:18px;
+  font-family:'Helvetica Neue';
+  text-align: center;
+}
+
+
+
+/* unvisited link */
+a:link {
+  color:  #337ab7;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color:  #337ab7;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ca054d;
+  text-decoration: underline;
+  
+}
+
+/* selected link */
+a:active {
+  color:  #337ab7;
+  text-decoration: none;
+} 
+
+
+
+.photorwo img {
+  width: 25%;
+}
+
+.photorow {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.photocolumn {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.photocolumn img {
+  margin-top: 8px;
+  vertical-align: middle;
+}

@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Andrew Zieffler"
+  body-header: "assets/body-header.qmd"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: contact.qmd
+        text: Contact
+      - href: "files/zieffler-cv-2022-10-31.pdf"
+        text: CV
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - "assets/theme.scss"
+    header-includes: |
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap" rel="stylesheet">  
+    toc: true
+    mainfont: "Raleway"
+
+
+
