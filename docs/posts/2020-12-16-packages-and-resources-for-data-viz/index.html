@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Andy">
+<meta name="dcterms.date" content="2020-12-16">
+
+<title>Andrew Zieffler - Packages and Resources for Data Viz</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&amp;display=swap" rel="stylesheet">  
+
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Andrew Zieffler</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../contact.html" rel="" target="">
+ <span class="menu-text">Contact</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://datadreaming.org/files/zieffler-cv.pdf" rel="" target="">
+ <span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../publications.html" rel="" target="">
+ <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../teaching.html" rel="" target="">
+ <span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../posts.html" rel="" target="">
+ <span class="menu-text">Blog</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Packages and Resources for Data Viz</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">notes</div>
+                <div class="quarto-category">R</div>
+                <div class="quarto-category">Teaching</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Andy </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">December 16, 2020</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#online-books" id="toc-online-books" class="nav-link active" data-scroll-target="#online-books">Online Books</a></li>
+  <li><a href="#general-resources-blog-posts-slides-etc." id="toc-general-resources-blog-posts-slides-etc." class="nav-link" data-scroll-target="#general-resources-blog-posts-slides-etc.">General Resources (Blog Posts, Slides, etc.)</a></li>
+  <li><a href="#tools" id="toc-tools" class="nav-link" data-scroll-target="#tools">Tools</a></li>
+  <li><a href="#tutorials" id="toc-tutorials" class="nav-link" data-scroll-target="#tutorials">Tutorials</a></li>
+  <li><a href="#r-packages" id="toc-r-packages" class="nav-link" data-scroll-target="#r-packages">R Packages</a></li>
+  <li><a href="#data-for-viz" id="toc-data-for-viz" class="nav-link" data-scroll-target="#data-for-viz">Data for Viz</a></li>
+  <li><a href="#miscellaneous" id="toc-miscellaneous" class="nav-link" data-scroll-target="#miscellaneous">Miscellaneous</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+<p>./assets/body-header.qmd</p>
+<p><em>I have written several notes to myself over the years as reminders. These include ideas for research, R packages I have seen and may use sometime), things to-do, etc. I am in the process of making some of these notes more public on my blog. This will act as a more searchable, curated “note” for myself, but also makes it available to anyone else who would benefit.</em></p>
+<p>These are resources I was compiling for use in our course, <em>EPsy 1261: Understanding Data Stories through Visualization &amp; Computing</em>.</p>
+<p><br></p>
+<section id="online-books" class="level2">
+<h2 class="anchored" data-anchor-id="online-books">Online Books</h2>
+<ul>
+<li>Healy, K. (2018). <a href="https://socviz.co/">Data Visualization: A Practical Introduction</a>.
+<ul>
+<li><a href="https://github.com/kjhealy/socviz">socviz</a>: R package to accompany Kieran Healy’s book, <em>Data Visualization: A Practical Introduction</em>. It includes datasets, functions, and course materials.</li>
+</ul></li>
+<li>Wilke, C. O. (2019). <a href="https://serialmentor.com/dataviz/index.html">Fundamentals of Data Visualization</a>.
+<ul>
+<li><a href="https://github.com/clauswilke/practical_ggplot2">practical_ggplot2</a>: R package to accompany Claus Wilke’s book, <em>Fundamentals of Data Visualization</em>. Great suggestions for making plots look great!</li>
+</ul></li>
+</ul>
+<p><br></p>
+</section>
+<section id="general-resources-blog-posts-slides-etc." class="level2">
+<h2 class="anchored" data-anchor-id="general-resources-blog-posts-slides-etc.">General Resources (Blog Posts, Slides, etc.)</h2>
+<ul>
+<li>Barrett, M. (2019). <a href="https://designing-ggplots.netlify.app/">Designing ggplots: Making clear figures that communicate.</a> Slides from a workshop presented at Southern California R Users All-Hands Meetup, Burbank, CA.</li>
+<li>Chase, W. (2019, May 29). <a href="https://www.williamrchase.com/slides/ggplot_intro.html#1">R you ready to make charts?</a> Slides from a Philly Dataviz Meetup.</li>
+<li>Correll, M. (2018, November 20). <a href="https://medium.com/multiple-views-visualization-research-explained/what-does-visualization-literacy-mean-anyway-22f3b3badc0">What does “visualization literacy” mean, anyway?</a> <em>Multiple Views: Visualization Research Explained.</em> Blog post.</li>
+<li>Hullman, J. (2020, April 06). <a href="https://medium.com/multiple-views-visualization-research-explained/being-bayesian-with-visualization-669892dc024b">Being Bayesian with visualization</a>. <em>Multiple Views: Visualization Research Explained.</em> Blog post.</li>
+<li>Kashnitsky, I. (2019). [Dotplot – the single most useful yet largely neglected dataviz type](https://ikashnitsky.github.io/2019/dotplot/&nbsp;(Replace barplots). Blog post.</li>
+<li>Kirk, A. (2019, August 07). <a href="https://www.visualisingdata.com/2019/08/five-ways-to-design-for-red-green-colour-blindness/">Five ways to design for red-green colour blindness.</a> Blog post.</li>
+<li>Leo, S. (2019, March 27). <a href="https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368">Mistakes, we’ve drawn a few: Learning from our errors in data visualisation</a>. <em>The Economist.</em> Online.</li>
+<li>Ranzolin, D. (2019, July 07). <a href="https://daranzolin.github.io/2019-07-07-animation-thoughts/">Thoughts on animation and movement in data visualization.</a> Blog post.</li>
+<li>Scherer, C. (2019). <a href="https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/">The evolution of a ggplot</a>. Blog post.</li>
+<li>Schwabish, J. (2018, November 19). <a href="https://policyviz.com/2018/11/19/teaching-data-visualization-to-kids/">Teaching data visualization to kids</a>. <em>PolicyViz.</em> Online.</li>
+<li>Tol, P. (2019, May 25). <a href="https://personal.sron.nl/~pault/">Notes on color palettes for scientific visualizations</a>. Blog post.</li>
+</ul>
+<p><br></p>
+</section>
+<section id="tools" class="level2">
+<h2 class="anchored" data-anchor-id="tools">Tools</h2>
+<ul>
+<li><a href="https://coolors.co/">Coolors</a>: Online palette generator and explorer. Can also display created alettes under many types of colorblindness.</li>
+<li><a href="https://github.com/ft-interactive/story-playbook">Digital Story Templates</a>: The Financial Times has created a set of six digital story templates to help its reporters and editors commission digital and visual stories.</li>
+<li><a href="http://napa-cards.net/">NAPA Cards</a>: Narrative Patterns for Data-Driven Storytelling.</li>
+<li><a href="https://neatline.org/">Neatline</a>: Neatline allows scholars, students, and curators to tell stories with maps, images and timelines.</li>
+<li><a href="https://rawgraphs.io/">RAW Graphs</a>: RAW Graphs is an open source data visualization framework built with the goal of making the visual representation of complex data easy for everyone.</li>
+<li><a href="https://pudding.cool/process/introducing-scrollama/">Scrollama</a>: Scrollama is a modern and lightweight JavaScript library for scrollytelling.</li>
+<li><a href="https://labs.tineye.com/">TinEye</a>: TinEye is a tool that can extract color palettes from an image. It also has image search capabilities.</li>
+<li><a href="https://networkcube.github.io/vistorian/web/index.html">The Vistorian.</a> The Vistorian is an online platform that provides interactive visualization for various kinds of networks. It is a collaborative open-source research-project currently in the prototyping phase. It also allows you to import CSV files to visualize.</li>
+<li><a href="https://whocanuse.com/?b=FFFFFF&amp;c=663399&amp;f=20&amp;s=">Who can use this?</a>: A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.</li>
+</ul>
+<p><br></p>
+</section>
+<section id="tutorials" class="level2">
+<h2 class="anchored" data-anchor-id="tutorials">Tutorials</h2>
+<ul>
+<li>Burkhart, C. <a href="https://ggplot2tutor.com/streetmaps/streetmaps/">Streetmaps: Create a streetmap of your favorite city with ggplot2 and powerpoint.</a> Blog post. Burkhart’s site also includes other tutorials to help you master ggplot2. Each tutorial provides a step-by-step guide that teaches you how to create visualizations that go beyond the basics of ggplot2.</li>
+</ul>
+<p><br></p>
+</section>
+<section id="r-packages" class="level2">
+<h2 class="anchored" data-anchor-id="r-packages">R Packages</h2>
+<p><strong>Extensions</strong></p>
+<ul>
+<li><a href="https://github.com/njtierney/brolgar">brolgar</a>: Package to <strong>br</strong>owse <strong>o</strong>ver <strong>l</strong>ongitudinal data <strong>g</strong>raphically and <strong>a</strong>nalytically in <strong>R</strong>, by providing tools to efficiently explore raw longitudinal data, calculate features (summaries) for individuals, and evaluate diagnostics of statistical models.</li>
+<li><a href="https://xvrdm.github.io/ggrough/index.html">ggrough</a>: Package to converts ggplot2 plots to rough/sketchy charts, using the javascript <code>roughjs</code> library.</li>
+<li><a href="https://nbarrowman.github.io/vtree.html">vtree</a>: Package for displaying nested subsets of a data frame.</li>
+<li><a href="https://github.com/hrbrmstr/waffle">waffle</a>: Package to create waffleplots</li>
+</ul>
+<p><strong>Palettes/Themes</strong></p>
+<ul>
+<li><a href="https://github.com/EmilHvitfeldt/paletteer">paletteer</a>: Comprehensive collection of palettes in R. Includes palettes from many, many different R packages.</li>
+<li><a href="https://github.com/EdwinTh/dutchmasters">dutchmasters</a>: Collection of color palettes based on paintings by the Dutch masters Johannes Vermeer and Rembrandt van Rijn.</li>
+<li><a href="https://github.com/aljrico/harrypotter">harrypotter</a>: Collection of palettes based on the Harry Potter film series.</li>
+<li><a href="https://github.com/m-clark/NineteenEightyR">NineteenEightyR</a>: Collection of color palettes based on the 80s.</li>
+<li><a href="https://github.com/Ryo-N7/tvthemes">tvthemes</a>: Collection of various ggplot2 themes and color/fill palettes based on everybody’s favorite TV shows.</li>
+<li><a href="https://github.com/karthik/wesanderson">wesanderson</a>: Collection of color palettes based on Was Anderson movies.</li>
+</ul>
+<p><strong>Color Blindness</strong></p>
+<ul>
+<li><a href="https://github.com/clauswilke/colorblindr">colorblindr</a>: Simulate colorblindness in production-ready R figures.</li>
+</ul>
+<p><br></p>
+</section>
+<section id="data-for-viz" class="level2">
+<h2 class="anchored" data-anchor-id="data-for-viz">Data for Viz</h2>
+<ul>
+<li><a href="https://github.com/rfordatascience">R4DS online learning community</a>: A GitHub organization for the R4DS online learning community.</li>
+<li><a href="https://github.com/rfordatascience/tidytuesday">Tidy Tuesday</a>: Real-world data that can be used for wrangling and visualization.</li>
+<li><a href="https://openpolicing.stanford.edu/data/">The Stanford Open Policing Project</a>: Standardized police stop data are available to download (by location). The data are provided in both CSV and RDS formats. In addition, shapefiles are available for select locations.</li>
+</ul>
+<p><br></p>
+</section>
+<section id="miscellaneous" class="level2">
+<h2 class="anchored" data-anchor-id="miscellaneous">Miscellaneous</h2>
+<ul>
+<li><a href="https://statmodeling.stat.columbia.edu/2018/09/15/columbia-data-science-institute-art-contest/">Flyer from Columbia Data Science Institute art contest</a></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

@@ -16,5 +16,176 @@
   },
   "teaching.qmd": {
     "teaching.html": "6689944b"
+  },
+  "posts.qmd": {
+    "posts.html": "babe3fab"
+  },
+  "posts/2018-02-19-college-in-the-schools/index.qmd": {
+    "index.html": "529e4f02"
+  },
+  "posts/2022-11-21-graduation-2022/index.qmd": {
+    "index.html": "b81ef5ea"
+  },
+  "posts/2022-04-27-a-couple-interesting-reads/index.qmd": {
+    "index.html": "a45b5169"
+  },
+  "posts/2022-04-26-mission-statements/index.qmd": {
+    "index.html": "a2cd3538"
+  },
+  "posts/2021-08-31-books/index.qmd": {
+    "index.html": "4fbaaefa"
+  },
+  "posts/2021-02-15-trivia-weekend/index.qmd": {
+    "index.html": "2c6b9e72"
+  },
+  "posts/2021-02-05-some-tv-updates/index.qmd": {
+    "index.html": "43b5767b"
+  },
+  "posts/2020-12-16-packages-and-resources-for-data-viz/index.qmd": {
+    "index.html": "ec70cd35"
+  },
+  "posts/2020-12-15-some-r-packages-to-keep-in-mind/index.qmd": {
+    "index.html": "fbb16d48"
+  },
+  "posts/2020-09-14-journal-of-statistics-education-jse-references/2020-09-14-journal-of-statistics-education-jse-references.qmd": {
+    "2020-09-14-journal-of-statistics-education-jse-references.html": "16670725"
+  },
+  "posts/2020-09-14-journal-of-statistics-education-jse-references.qmd": {
+    "2020-09-14-journal-of-statistics-education-jse-references.html": "51f8d9b8"
+  },
+  "posts/2020-07-22-a-history-of-r/2020-07-22-a-history-of-r.qmd": {
+    "2020-07-22-a-history-of-r.html": "b8bf87d9"
+  },
+  "posts/2020-07-21-spelling-lesson/2020-07-21-spelling-lesson.qmd": {
+    "2020-07-21-spelling-lesson.html": "006899d3"
+  },
+  "posts/2020-06-30-to-richard-wright/2020-06-30-to-richard-wright.qmd": {
+    "2020-06-30-to-richard-wright.html": "aeec0edc"
+  },
+  "posts/2020-03-26-welcome-to-my-office/2020-03-26-welcome-to-my-office.qmd": {
+    "2020-03-26-welcome-to-my-office.html": "d2c4a335"
+  },
+  "posts/2020-03-01-book-publishing-in-academia/2020-03-01-book-publishing-in-academia.qmd": {
+    "2020-03-01-book-publishing-in-academia.html": "48ae3ed4"
+  },
+  "posts/2020-02-27-better-research-poster/2020-02-27-better-research-poster.qmd": {
+    "2020-02-27-better-research-poster.html": "e48f9aab"
+  },
+  "posts/2020-02-20-some-plots-i-made/2020-02-20-some-plots-i-made.qmd": {
+    "2020-02-20-some-plots-i-made.html": "7d4e742a"
+  },
+  "posts/2020-02-09-apa-style-table-in-rmarkdown-html-version/2020-02-09-apa-style-table-in-rmarkdown-html-version.qmd": {
+    "2020-02-09-apa-style-table-in-rmarkdown-html-version.html": "f14d6b2a"
+  },
+  "posts/2020-01-18-apa-tables-using-rmarkdown-part-5/2020-01-18-apa-tables-using-rmarkdown-part-5.qmd": {
+    "2020-01-18-apa-tables-using-rmarkdown-part-5.html": "73813fce"
+  },
+  "posts/2020-01-13-apa-tables-using-rmarkdown-part-4/2020-01-13-apa-tables-using-rmarkdown-part-4.qmd": {
+    "2020-01-13-apa-tables-using-rmarkdown-part-4.html": "64643825"
+  },
+  "posts/2020-01-12-apa-tables-using-rmarkdown-part-3/2020-01-12-apa-tables-using-rmarkdown-part-3.qmd": {
+    "2020-01-12-apa-tables-using-rmarkdown-part-3.html": "71ce3126"
+  },
+  "posts/2020-01-11-apa-tables-using-r-markdown-part-2/2020-01-11-apa-tables-using-r-markdown-part-2.qmd": {
+    "2020-01-11-apa-tables-using-r-markdown-part-2.html": "269f60c4"
+  },
+  "posts/2020-01-09-apa-tables-using-rmarkdown/2020-01-09-apa-tables-using-rmarkdown.qmd": {
+    "2020-01-09-apa-tables-using-rmarkdown.html": "3c732537"
+  },
+  "posts/2019-12-12-thesis-season/2019-12-12-thesis-season.qmd": {
+    "2019-12-12-thesis-season.html": "48f6f158"
+  },
+  "posts/2019-12-11-helping-the-earth/2019-12-11-helping-the-earth.qmd": {
+    "2019-12-11-helping-the-earth.html": "f14639c6"
+  },
+  "posts/2019-12-09-teaching-statistics-reading-discussion-group/2019-12-09-teaching-statistics-reading-discussion-group.qmd": {
+    "2019-12-09-teaching-statistics-reading-discussion-group.html": "b2969053"
+  },
+  "posts/2019-12-06-reproducibilitea-reading-group/2019-12-06-reproducibilitea-reading-group.qmd": {
+    "2019-12-06-reproducibilitea-reading-group.html": "6b3ed0da"
+  },
+  "posts/2019-11-24-two-online-articles/2019-11-24-two-online-articles.qmd": {
+    "2019-11-24-two-online-articles.html": "f3a471c0"
+  },
+  "posts/2019-10-22-television/2019-10-22-television.qmd": {
+    "2019-10-22-television.html": "12a492a4"
+  },
+  "posts/2019-10-10-illustrating-the-gender-gap-in-fiction/2019-10-10-illustrating-the-gender-gap-in-fiction.qmd": {
+    "2019-10-10-illustrating-the-gender-gap-in-fiction.html": "cf27fba2"
+  },
+  "posts/2019-07-24-dissertation-writing/2019-07-24-dissertation-writing.qmd": {
+    "2019-07-24-dissertation-writing.html": "55191b19"
+  },
+  "posts/2019-06-26-what-to-do-about-p-values/2019-06-26-what-to-do-about-p-values.qmd": {
+    "2019-06-26-what-to-do-about-p-values.html": "6bea3651"
+  },
+  "posts/2019-06-17-2019-statprep-workshops/2019-06-17-2019-statprep-workshops.qmd": {
+    "2019-06-17-2019-statprep-workshops.html": "a680aa77"
+  },
+  "posts/2019-06-05-higher-education-in-minnesota/2019-06-05-higher-education-in-minnesota.qmd": {
+    "2019-06-05-higher-education-in-minnesota.html": "8d4b94bb"
+  },
+  "posts/2019-06-03-richard-hamming-on-calculus/2019-06-03-richard-hamming-on-calculus.qmd": {
+    "2019-06-03-richard-hamming-on-calculus.html": "9fe76a4f"
+  },
+  "posts/2019-05-30-change-time-and-effort/2019-05-30-change-time-and-effort.qmd": {
+    "2019-05-30-change-time-and-effort.html": "1b15326f"
+  },
+  "posts/2019-05-19-uscots-2019/2019-05-19-uscots-2019.qmd": {
+    "2019-05-19-uscots-2019.html": "465ccfd9"
+  },
+  "posts/2019-05-09-congratulations-ethan/2019-05-09-congratulations-ethan.qmd": {
+    "2019-05-09-congratulations-ethan.html": "ba78497a"
+  },
+  "posts/2019-05-06-cv-quotation/2019-05-06-cv-quotation.qmd": {
+    "2019-05-06-cv-quotation.html": "a512f1c9"
+  },
+  "posts/2019-05-02-student-awards/2019-05-02-student-awards.qmd": {
+    "2019-05-02-student-awards.html": "5e0309df"
+  },
+  "posts/2019-05-01-cv-tips/2019-05-01-cv-tips.qmd": {
+    "2019-05-01-cv-tips.html": "ebf55d13"
+  },
+  "posts/2019-04-30-computer-brain/2019-04-30-computer-brain.qmd": {
+    "2019-04-30-computer-brain.html": "0c4847c2"
+  },
+  "posts/2019-04-26-slhs-prosem/2019-04-26-slhs-prosem.qmd": {
+    "2019-04-26-slhs-prosem.html": "0e22fb92"
+  },
+  "posts/2018-08-27-inbox-zero/2018-08-27-inbox-zero.qmd": {
+    "2018-08-27-inbox-zero.html": "5ad4daa7"
+  },
+  "posts/2018-06-03-statistical-society-of-canada/2018-06-03-statistical-society-of-canada.qmd": {
+    "2018-06-03-statistical-society-of-canada.html": "be1e5212"
+  },
+  "posts/2018-04-11-spring-weather-in-minneapolis/2018-04-11-spring-weather-in-minneapolis.qmd": {
+    "2018-04-11-spring-weather-in-minneapolis.html": "528d57a8"
+  },
+  "posts/2018-04-11-r-markdown-theme-gallery/2018-04-11-r-markdown-theme-gallery.qmd": {
+    "2018-04-11-r-markdown-theme-gallery.html": "1a760275"
+  },
+  "posts/2018-04-09-epsy-5271-part-04/2018-04-09-epsy-5271-part-04.qmd": {
+    "2018-04-09-epsy-5271-part-04.html": "5bdab056"
+  },
+  "posts/2018-04-06-epsy-8271-announcement/2018-04-06-epsy-8271-announcement.qmd": {
+    "2018-04-06-epsy-8271-announcement.html": "6830cc5b"
+  },
+  "posts/2018-04-02-epsy-5271-part-03/2018-04-02-epsy-5271-part-03.qmd": {
+    "2018-04-02-epsy-5271-part-03.html": "9a8d2cbc"
+  },
+  "posts/2018-03-30-epsy-5271-part-02/2018-03-30-epsy-5271-part-02.qmd": {
+    "2018-03-30-epsy-5271-part-02.html": "355d3415"
+  },
+  "posts/2018-03-28-epsy-5271/2018-03-28-epsy-5271.qmd": {
+    "2018-03-28-epsy-5271.html": "eb7aad0b"
+  },
+  "posts/2018-03-15-boys-hockey-post-hoc/2018-03-15-boys-hockey-post-hoc.qmd": {
+    "2018-03-15-boys-hockey-post-hoc.html": "cdee601b"
+  },
+  "posts/2018-03-08-boys-hockey/2018-03-08-boys-hockey.qmd": {
+    "2018-03-08-boys-hockey.html": "58790e0b"
+  },
+  "posts/2018-03-03-boys-hockey/2018-03-03-boys-hockey.qmd": {
+    "2018-03-03-boys-hockey.html": "1a35f0b0"
   }
 }

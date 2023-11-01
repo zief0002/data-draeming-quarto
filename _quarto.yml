@@ -4,26 +4,30 @@ project:
 
 website:
   title: "Andrew Zieffler"
-  body-header: "assets/body-header.qmd"
+  site-url: "https://datadreaming.org"
+  repo-url: "https://www.github.com/zief0002/data-dreaming-quarto"
+  body-header: "./assets/body-header.qmd"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: contact.qmd
         text: Contact
-      - href: "files/zieffler-cv-2022-10-31.pdf"
+      - href: "https://datadreaming.org/files/zieffler-cv.pdf"
         text: CV
       - href: publications.qmd
         text: Publications
       - href: teaching.qmd
         text: Teaching
+      - href: posts.qmd
+        text: Blog
 
 format:
   html:
     theme: 
       - cosmo
       - "assets/theme.scss"
+    highlight-style: monokai
     header-includes: |
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
