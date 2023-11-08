@@ -1,5 +1,5 @@
 :::{.column-screen}
-![](/img/typewriter.png)
+![](img/typewriter2.png)
 <div class="banner-text">
 # Andrew Zieffler
 

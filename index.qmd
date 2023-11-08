@@ -2,6 +2,14 @@
 title: ""
 ---
 
+:::{.column-screen}
+![](img/typewriter2.png)
+<div class="banner-text">
+# Andrew Zieffler
+
+Academic. Data lover. Statistics enthusiast.
+</div>
+:::
 
 
 <center>
@@ -20,6 +28,20 @@ My scholarship addresses statistics education writ large, and has recently been 
 I have authored/co-authored several papers and book chapters related to statistics education, and have been a co-PI on many NSF-funded statistics education research projects. Additionally, I have co-authored two textbooks that serve as an introduction to modern statistical and computational methods for students in the educational and behavioral sciences. 
 
 I have served as an AE for the [Journal of Statistics Education](https://www.tandfonline.com/journals/ujse20) and co-editor of the journal [Technology Innovations in Statistics Education](http://escholarship.org/uc/uclastat_cts_tise). In 2018, I was part of a study group formed by the National Academies of Sciences, Engineering, and Medicine that authored the report, [Data Science for Undergraduates: Opportunities and Options](https://www.nap.edu/catalog/25104/data-science-for-undergraduates-opportunities-and-option).
+
+
+<br />
+
+---
+
+<center>
+<span style="text-align: center;display: block;">**Check out our research lab!**</span><br />
+<img src="img/laser-lab.png" width="10%" style="vertical-align: middle;">
+<span style="">[Laboratory for Advancing Statistics Education Research](https://labadvstatedresearch.github.io/laser.github.io/).</span>
+</center>
+
+---
+
 
 
 <br />

@@ -2,7 +2,6 @@
 title: Mission Statements
 author: Andy
 date: '2022-04-26'
-description: "Some thoughts on mission staements"
 slug: []
 categories:
   - Miscellaneous

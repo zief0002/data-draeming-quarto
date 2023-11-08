@@ -2,7 +2,6 @@
 title: A Couple Interesting Reads
 author: Andy
 date: '2022-04-27'
-description: "Three fun reads: Americans Need to Get Over Their Fear of Math, Structured Procrastination, and The Devil Teaches Thermodynamics"
 slug: []
 categories:
   - Miscellaneous

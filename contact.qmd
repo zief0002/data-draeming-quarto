@@ -2,6 +2,16 @@
 title: ""
 ---
 
+:::{.column-screen}
+![](img/typewriter2.png)
+<div class="banner-text">
+# Andrew Zieffler
+
+Academic. Data lover. Statistics enthusiast.
+</div>
+:::
+
+<br />
 
 
 ### Location, email, what-not

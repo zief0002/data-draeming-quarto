@@ -6,14 +6,14 @@ website:
   title: "Andrew Zieffler"
   site-url: "https://datadreaming.org"
   repo-url: "https://www.github.com/zief0002/data-dreaming-quarto"
-  body-header: "/assets/body-header.qmd"
+  # body-header: "/assets/body-header.qmd"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: contact.qmd
         text: Contact
-      - href: "https://datadreaming.org/files/zieffler-cv.pdf"
+      - href: "/files/zieffler-cv.pdf"
         text: CV
       - href: publications.qmd
         text: Publications
