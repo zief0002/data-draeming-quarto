@@ -1,0 +1,26 @@
+---
+title: ""
+listing: 
+  contents: projects # all Quarto docs in the `posts` directory will be included on your listing page
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  sort: "title" # can also sort on more than one field
+  feed: true
+  image-placeholder: "./img/generic-blog.jpg"
+---
+
+
+:::{.column-screen}
+![](img/typewriter2.png)
+<div class="banner-text">
+# Andrew Zieffler
+
+Academic. Data lover. Statistics enthusiast.
+</div>
+:::
+
+<br />
+
+
+## Projects
+
+

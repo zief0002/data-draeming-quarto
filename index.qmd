@@ -37,7 +37,7 @@ I have served as an AE for the [Journal of Statistics Education](https://www.tan
 <center>
 <span style="text-align: center;display: block;">**Check out our research lab!**</span><br />
 <img src="img/laser-lab.png" width="10%" style="vertical-align: middle;">
-<span style="">[Laboratory for Advancing Statistics Education Research](https://labadvstatedresearch.github.io/laser.github.io/).</span>
+<span style="">[Laboratory for Advancing Statistics Education Research](https://laser-umn.github.io/).</span>
 </center>
 
 ---

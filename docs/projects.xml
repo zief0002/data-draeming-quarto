@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Andrew Zieffler</title>
+<link>https://datadreaming.org/projects.html</link>
+<atom:link href="https://datadreaming.org/projects.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Wed, 08 Nov 2023 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>SLEDS Lab</title>
+  <dc:creator>Andy </dc:creator>
+  <link>https://datadreaming.org/projects/sleds/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://datadreaming.org/img/sleds-logo.png" style="display:block; margin-left:auto; margin-right:auto; width:30%;"></p>
+<p>SLEDS is Minnesota’s Statewide Longitudinal Education Data System. It is a linkable data repository to identify, organize, and analyze education and workforce data. Our lab is using the SLEDS data to study college attendance patterns for students from different backgrounds, focusing particularly on sex differences in college going behaviors and college successes.</p>
+<section id="members" class="level2">
+<h2 class="anchored" data-anchor-id="members">Members</h2>
+<p><img src="https://datadreaming.org/img/geoff.jpg" style="width: 150px; border: 1px solid; border-radius: 50%; vertical-align: middle;"> <span style="margin-left: 20px;display: inline-block;"><strong>Geoff Maruyama</strong><br>Co-director/Founder</span></p>
+<p><br clear="all"></p>
+<p><img src="https://datadreaming.org/img/isa.jpg" style="width: 150px; border: 1px solid;  border-radius: 50%; vertical-align:middle;"> <span style="margin-left: 20px; display: inline-block;"><strong>Marisa Peczuh</strong></span></p>
+<p><br clear="all"></p>
+<p><img src="https://datadreaming.org/img/tai.jpg" style="width: 150px; border: 1px solid;  border-radius: 50%; vertical-align:middle;"> <span style="margin-left: 20px; display: inline-block;"><strong>Tai Do</strong></span></p>
+<p><br clear="all"></p>
+<p><img src="https://datadreaming.org/img/shelby.png" style="width: 150px; border: 1px solid; border-radius: 50%; vertical-align:middle;"> <span style="margin-left: 20px; display: inline-block;"><strong>Shelby Weisen</strong></span></p>
+<p><br clear="all"></p>
+<p><img src="https://datadreaming.org/img/andy.png" style="width: 150px; border: 1px solid;  border-radius: 50%; vertical-align:middle;"> <span style="margin-left: 20px; display: inline-block;"><strong>Andrew Zieffler</strong> <br>Co-director</span></p>
+<p><br clear="all"></p>
+<figure class="figure">
+<img src="https://datadreaming.org/img/geoff.jpg" alt="Geoff Maruyama" style="width: 150px; border: 1px solid;  border-radius: 50%;" class="figure-img">
+<figcaption class="figure-caption">
+Geoff Maruyama
+</figcaption>
+</figure>
+<div class="grid">
+<div class="g-col-4">
+<img src="https://datadreaming.org/img/geoff.jpg" alt="Geoff Maruyama" style="width: 150px; border: 1px solid;  border-radius: 50%;">
+<p style="text-align: justify;">
+<strong>Geoff Maruyama</strong><br>Co-director/Founder
+</p>
+</div>
+<div class="g-col-4">
+<img src="https://datadreaming.org/img/geoff.jpg" alt="Geoff Maruyama" style="width: 150px; border: 1px solid;  border-radius: 50%;">
+<p style="text-align: justify;">
+<strong>Geoff Maruyama</strong><br>Co-director/Founder
+</p>
+</div>
+<div class="g-col-4">
+<img src="https://datadreaming.org/img/geoff.jpg" alt="Geoff Maruyama" style="width: 150px; border: 1px solid;  border-radius: 50%;">
+<p style="text-align: justify;">
+<strong>Geoff Maruyama</strong><br>Co-director/Founder
+</p>
+</div>
+</div>
+<div class="member">
+
+</div>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://datadreaming.org/projects/sleds/index.html</guid>
+  <pubDate>Wed, 08 Nov 2023 06:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

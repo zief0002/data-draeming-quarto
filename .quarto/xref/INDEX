@@ -187,5 +187,17 @@
   },
   "posts/2018-03-03-boys-hockey/2018-03-03-boys-hockey.qmd": {
     "2018-03-03-boys-hockey.html": "1a35f0b0"
+  },
+  "projects.qmd": {
+    "projects.html": "776ca7a3"
+  },
+  "projects/sleds/index.qmd": {
+    "index.html": "f58381c7"
+  },
+  "posts/2023-11-19-eufiveia-playlist/index.qmd": {
+    "index.html": "70207f56"
+  },
+  "posts/2023-11-19-aural-euphoria/index.qmd": {
+    "index.html": "d8250409"
   }
 }

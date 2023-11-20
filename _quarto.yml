@@ -19,6 +19,8 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
+      - href: projects.qmd
+        text: Projects
       - href: posts.qmd
         text: Blog
 

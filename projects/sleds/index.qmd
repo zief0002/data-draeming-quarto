@@ -1,0 +1,73 @@
+---
+title: "SLEDS Lab"
+author: "Andy"
+date: 2023-11-08
+tags: ["SLEDS", "Projects"]
+---
+
+
+<img src="/img/sleds-logo.png" style="display:block; margin-left:auto; margin-right:auto; width:30%;">
+
+
+SLEDS is Minnesota’s Statewide Longitudinal Education Data System. It is a linkable data repository to identify, organize, and analyze education and workforce data. Our lab is using the SLEDS data to study college attendance patterns for students from different backgrounds, focusing particularly on sex differences in college going behaviors and college successes. 
+
+
+
+
+
+## Members
+
+<img src="/img/geoff.jpg" style="width: 150px; border: 1px solid; border-radius: 50%; vertical-align: middle;"> <span style="margin-left: 20px;display: inline-block;">**Geoff Maruyama**<br />Co-director/Founder</span> 
+
+
+<br clear="all"/>
+
+
+<img src="/img/isa.jpg" style="width: 150px; border: 1px solid;  border-radius: 50%; vertical-align:middle;"> <span style="margin-left: 20px; display: inline-block;">**Marisa Peczuh**</span>
+
+
+<br clear="all"/>
+
+<img src="/img/tai.jpg" style="width: 150px; border: 1px solid;  border-radius: 50%; vertical-align:middle;"> <span style="margin-left: 20px; display: inline-block;">**Tai Do**</span>
+
+<br clear="all"/>
+
+<img src="/img/shelby.png" style="width: 150px; border: 1px solid; border-radius: 50%; vertical-align:middle;"> <span style="margin-left: 20px; display: inline-block;">**Shelby Weisen**</span>
+
+<br clear="all"/>
+
+<img src="/img/andy.png" style="width: 150px; border: 1px solid;  border-radius: 50%; vertical-align:middle;"> <span style="margin-left: 20px; display: inline-block;">**Andrew Zieffler** <br />Co-director</span>
+
+<br clear="all"/>
+
+
+<figure>
+  <img src="/img/geoff.jpg" alt="Geoff Maruyama" style="width: 150px; border: 1px solid;  border-radius: 50%;" />
+  <figcaption>Geoff Maruyama</figcaption>
+</figure>
+
+
+::: {.grid}
+
+::: {.g-col-4}
+<img src="/img/geoff.jpg" alt="Geoff Maruyama" style="width: 150px; border: 1px solid;  border-radius: 50%;" />
+<p style="text-align: justify;">**Geoff Maruyama**<br />Co-director/Founder</p> 
+:::
+
+::: {.g-col-4}
+<img src="/img/geoff.jpg" alt="Geoff Maruyama" style="width: 150px; border: 1px solid;  border-radius: 50%;" />
+<p style="text-align: justify;">**Geoff Maruyama**<br />Co-director/Founder</p> 
+:::
+
+::: {.g-col-4}
+<img src="/img/geoff.jpg" alt="Geoff Maruyama" style="width: 150px; border: 1px solid;  border-radius: 50%;" />
+<p>**Geoff Maruyama**<br />Co-director/Founder</p> 
+:::
+
+
+:::
+
+
+:::{.member} 
+
+:::
