@@ -9,16 +9,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "EPSY SLEDS Research Lab",
     "section": "",
-    "text": "Academic. Data lover. Statistics enthusiast.\nSLEDS Lab is a research lab in the Department of Educational Psychology at the University of Minnesota. It sprung from the Social Lab, started by Geoff Maruyama."
+    "text": "No, we’re not a gathering place for winter sports enthusiasts living in a relatively cold climate.\nWe are researchers working with data from the Minnesota Statewide Longitudinal Educational Data System (SLEDS). Available SLEDS data include information gathered by The Minnesota Department of Education (preK–12 data), the Minnesota Office of Higher Education (post-secondary data), and the Minnesota Department of Employment and Economic Development (workforce data). Information is merged through use of a common identifier across systems. The resulting secure longitudinal data set follows children throughout their preK–12 years, into and through their college years, and into the workforce.\nWe have been working with deidentified individual level data provided to us by the Minnesota group responsible for SLEDS. They have created SLEDS and both maintain it and review external requests to analyze SLEDS data in ways that improve understanding of Minnesota’s educational system and its effectiveness. We are pleased to have received access to SLEDS data for our analyses.\nOur initial focus has been on increasing understanding of gender differences in educational trajectories of youth after they finish high school. Nationally, much as been written about the lesser proportion of males who attend post-secondary education. Our work has disaggregated gender differences, adding other variables (e.g., race, social class, citizenship status) and types of post-secondary education where students enroll to provide a more complete picture of differences in college-going behaviors of an entire graduating class from Minnesota’s public high schools. We also have begun exploring work experiences of youth attending (full time and part time) and not attending college."
   },
   {
     "objectID": "about.html#members",
     "href": "about.html#members",
-    "title": "About",
+    "title": "EPSY SLEDS Research Lab",
     "section": "Members",
-    "text": "Members"
+    "text": "Members\n Dr. Andrew Zieffler, Teaching Professor\n Dr. Geoffrey Maruyama, Professor Emeritus\n Marisa Peczuh, Doctoral student\n Tai Do, Doctoral candidate\n Shelby Weisen, Doctoral student"
   },
   {
     "objectID": "index.html",
@@ -753,7 +753,7 @@
     "href": "projects/sleds/index.html",
     "title": "SLEDS Lab",
     "section": "",
-    "text": "SLEDS is Minnesota’s Statewide Longitudinal Education Data System. It is a linkable data repository to identify, organize, and analyze education and workforce data. Our lab is using the SLEDS data to study college attendance patterns for students from different backgrounds, focusing particularly on sex differences in college going behaviors and college successes."
+    "text": "No, we’re not a gathering place for winter sports enthusiasts living in a relatively cold climate.\nWe are researchers working with data from the Minnesota Statewide Longitudinal Educational Data System (SLEDS). Available SLEDS data include information gathered by The Minnesota Department of Education (preK–12 data), the Minnesota Office of Higher Education (post-secondary data), and the Minnesota Department of Employment and Economic Development (workforce data). Information is merged through use of a common identifier across systems. The resulting secure longitudinal data set follows children throughout their preK–12 years, into and through their college years, and into the workforce.\nWe have been working with deidentified individual level data provided to us by the Minnesota group responsible for SLEDS. They have created SLEDS and both maintain it and review external requests to analyze SLEDS data in ways that improve understanding of Minnesota’s educational system and its effectiveness. We are pleased to have received access to SLEDS data for our analyses.\nOur initial focus has been on increasing understanding of gender differences in educational trajectories of youth after they finish high school. Nationally, much as been written about the lesser proportion of males who attend post-secondary education. Our work has disaggregated gender differences, adding other variables (e.g., race, social class, citizenship status) and types of post-secondary education where students enroll to provide a more complete picture of differences in college-going behaviors of an entire graduating class from Minnesota’s public high schools. We also have begun exploring work experiences of youth attending (full time and part time) and not attending college."
   },
   {
     "objectID": "projects/sleds/index.html#cis-statistics",
@@ -943,5 +943,33 @@
     "title": "Aural Euphoria",
     "section": "A Love Letter To Minnesota Artists (Bonus Content)",
     "text": "A Love Letter To Minnesota Artists (Bonus Content)\nThese are some of my favorite songs from the bands that have called Minnesota home.\n\nThe Arms Of Orion (Prince; 1989)\nSurfin’ Bird (The Trashmen; 1963)\nDon’t Want To Know If You Are Lonely (Hüsker Dü; 1986)\nCartoon (Soul Asylum; 1988)\nStupid Boy (Gear Daddies; 1990)\nIs There Rock ‘N’ Roll In Heaven? (Slave Raider; 1988)\nBlue (The Jayhawks; 1995)\nLove Untold (Paul Westerberg; 1996)\nWhat’s On Your Mind (Pure Energy) (Information Society; 1988)\nFunkytown (Lipps Inc.; 1979)\nToolmaster of Brainerd (Trip Shakespeare; 1989)\nDUI (Har Mar Superstar; 2004)\nLove Is The Law (Suburbs; 1984)\n(I Wanna Drive The) Zamboni (Gear Daddies; 1990)\nCan’t Hardly Wait (The Replacements; 1987)\nBruise Violet (Babes in Toyland; 1992)\nUntil You Came Along (Golden Smog; 1998)\nClosing Time (Semisonic; 1998)"
+  },
+  {
+    "objectID": "about.html#lab-members",
+    "href": "about.html#lab-members",
+    "title": "EPSY SLEDS Research Lab",
+    "section": "Lab Members",
+    "text": "Lab Members\n Dr. Andrew Zieffler, Teaching Professor\n Dr. Geoffrey Maruyama, Professor Emeritus\n Marisa Peczuh, Doctoral student\n Tai Do, Doctoral candidate\n Shelby Weisen, Doctoral student\nWe are grateful for guidance we have received from staff at the Minnesota Office of Higher Education, in particular Meredith Fergus and Nora Morris. They have been valuable partners in our work."
+  },
+  {
+    "objectID": "projects/sleds/index.html#lab-members",
+    "href": "projects/sleds/index.html#lab-members",
+    "title": "SLEDS Lab",
+    "section": "Lab Members",
+    "text": "Lab Members\n Dr. Andrew Zieffler, Teaching Professor\n Dr. Geoffrey Maruyama, Professor Emeritus\n Marisa Peczuh, Doctoral student\n Tai Do, Doctoral candidate\n Shelby Weisen, Doctoral student\nWe are grateful for guidance we have received from staff at the Minnesota Office of Higher Education, in particular Meredith Fergus and Nora Morris. They have been valuable partners in our work."
+  },
+  {
+    "objectID": "projects/laser/index.html",
+    "href": "projects/laser/index.html",
+    "title": "LASER Lab",
+    "section": "",
+    "text": "The Lab for Advancing Statistics Education Research (LASER) focuses on statistics and data science education research.\nDescended from the statistics education research of Joan Garfield and Bob delMas, the LASER lab is housed at the University of Minnesota in the Quantitative Methods program of the Educational Psychology department. Our research interests, though broad, focus on the teaching and learning of statistics and data science as well as their assessment and curriculum development.\nLearn more about our current work at our LASER Lab website."
+  },
+  {
+    "objectID": "projects/laser/index.html#lab-members",
+    "href": "projects/laser/index.html#lab-members",
+    "title": "LASER Lab",
+    "section": "Lab Members",
+    "text": "Lab Members\n Dr. Andrew Zieffler, Teaching Professor\n Dr. Chelsey Legacy, Assistant Teaching Professor\n Regina Lisinker, Doctoral student\n Pablo Vivas Corrales, Master’s student"
   }
 ]

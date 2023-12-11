@@ -1,0 +1,44 @@
+---
+title: "LASER Lab"
+author: "Andy"
+description: "The Lab for Advancing Statistics Education Research (LASER) focuses on statistics and data science education research."
+date: "2023"
+tags: ["SLEDS", "Projects"]
+image: "img/laser-lab.png"
+---
+
+
+<div>
+<img src="img/laser-lab.png" style="width: 40%; vertical-align:top; float:left;"> 
+<span>The Lab for Advancing Statistics Education Research (LASER) focuses on statistics and data science education research.
+
+Descended from the statistics education research of Joan Garfield and Bob delMas, the LASER lab is housed at the University of Minnesota in the Quantitative Methods program of the Educational Psychology department. Our research interests, though broad, focus on the teaching and learning of statistics and data science as well as their assessment and curriculum development.
+
+Learn more about our current work at our [LASER Lab website](https://laser-umn.github.io/).
+
+
+</span>
+</div>
+
+
+<br />
+
+
+
+## Lab Members
+
+<img src="img/andy.png" style="width: 15%; border-radius: 50%;">
+Dr. Andrew Zieffler, Teaching Professor
+
+<img src="img/chelsey.png" style="width: 15%; border-radius: 50%;">
+Dr. Chelsey Legacy, Assistant Teaching Professor
+
+<img src="img/regina.png" style="width: 15%; border-radius: 50%;">
+Regina Lisinker, Doctoral student
+
+<img src="img/pablo.png" style="width: 15%; border-radius: 50%;">
+Pablo Vivas Corrales, Master's student
+
+
+
+

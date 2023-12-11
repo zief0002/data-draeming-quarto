@@ -63,6 +63,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/laser/index.html",
       "/projects/sleds/index.html"
     ]
   }
