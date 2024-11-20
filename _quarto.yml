@@ -21,6 +21,8 @@ website:
         text: Teaching
       - href: projects.qmd
         text: Projects
+      - href: cross-stitch.qmd
+        text: Cross-Stitch
       - href: posts.qmd
         text: Blog
 

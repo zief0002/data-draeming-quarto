@@ -1,0 +1,46 @@
+---
+title: ""
+format: html
+lightbox: true
+---
+
+
+:::{.column-screen}
+![](img/typewriter3.jpg)
+<!-- <div class="banner-text"> -->
+<!-- # Andrew Zieffler -->
+
+<!-- Academic. Data lover. Statistics enthusiast. -->
+<!-- </div> -->
+:::
+
+<br />
+
+
+# Cross-Stitching
+
+In my spare time, I really enjoy cross-stitching. Here are some of the things I have cross-stitched in the last several years.
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));grid-gap: 1em;"}
+
+![](img/cross-stitch-haunted-house.jpg){group="my-gallery"}
+
+![](img/cross-stitch-tswift.jpg){group="my-gallery"}
+
+![](img/cross-stitch-evidence.jpg){group="my-gallery"}
+
+![](img/cross-stitch-mcmc.jpg){group="my-gallery"}
+
+![](img/cross-stitch-fuckit.jpg){group="my-gallery"}
+
+![](img/cross-stitch-duck.jpg){group="my-gallery"}
+
+![](img/cross-stitch-bb8.jpg){group="my-gallery"}
+
+![](img/cross-stitch-he-man.jpg){group="my-gallery"}
+
+
+:::
+
+
+

@@ -4,12 +4,12 @@ title: ""
 
 
 :::{.column-screen}
-![](img/typewriter2.png)
-<div class="banner-text">
-# Andrew Zieffler
+![](img/typewriter3.jpg)
+<!-- <div class="banner-text"> -->
+<!-- # Andrew Zieffler -->
 
-Academic. Data lover. Statistics enthusiast.
-</div>
+<!-- Academic. Data lover. Statistics enthusiast. -->
+<!-- </div> -->
 :::
 
 

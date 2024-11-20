@@ -202,5 +202,8 @@
   },
   "projects/laser/index.qmd": {
     "index.html": "c231eceb"
+  },
+  "cross-stitch.qmd": {
+    "cross-stitch.html": "719f93e1"
   }
 }
